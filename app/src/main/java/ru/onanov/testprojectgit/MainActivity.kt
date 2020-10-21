@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
 
         var alla = 5765;
-
+        var Shpak = "Nikita pidor;
         AlertDialog.Builder(this)
     }
 }
