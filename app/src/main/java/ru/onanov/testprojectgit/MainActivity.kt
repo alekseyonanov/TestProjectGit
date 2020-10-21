@@ -9,8 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
-        var alla = 5765;
+        var kekeks = "11231231231231213131312312312312313"
+        var alla = 5765
         var shpak = "Nikita pidor"
         AlertDialog.Builder(this)
     }
