@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
 
         var kekeks = "11231231231231213131312312312312313"
         var alla = 5765
+        var kkkk = 1448
+        var alla = 5765;
         var shpak = "Nikita pidor"
         AlertDialog.Builder(this)
     }
